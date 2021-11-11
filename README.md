@@ -1,2 +1,2 @@
 # FISCAMOVIL
-Aplicactivo para fiscalización de transporte (Académico)
+Aplicativo para fiscalización de transporte (Académico)
